@@ -18,6 +18,7 @@ body {
 }
 
 form h1 {
+  color: rgb(17, 74, 17);
   margin: 1rem 0;
 }
 
@@ -32,6 +33,7 @@ label {
   color: rgb(17, 74, 17);
   margin-bottom: 0.5rem;
 }
+
 input {
   height: 40px;
   width: 400px;
@@ -61,13 +63,15 @@ nav {
 .nav-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   width: 80%;
 }
 
 nav h1 {
-  font-size: 2rem;
-  margin: 1rem;
-  padding: 1rem;
+  color: rgb(56, 125, 56);
+  font-size: 3rem;
+  /* margin: 1rem 0; */
+  /* padding: 1rem 0; */
 }
 
 ul {

@@ -12,7 +12,7 @@ body {
   justify-content: center;
 }
 
-.container {
+#container {
   width: 80%;
   display: flex;
 }
@@ -60,7 +60,7 @@ nav {
   justify-content: center;
 }
 
-.nav-container {
+#nav-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
